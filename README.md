@@ -2,8 +2,6 @@
 
 Add a description
 
-Foo
-
 ```
 ├── README.md <- The top-level README for developers using this project.
 ├── LICENSE <- Licence for the repository (by default, MIT)
