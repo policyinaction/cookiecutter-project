@@ -1,4 +1,4 @@
-# Project Urba Santé
+# Project name
 
 Add a description
 
